@@ -1,0 +1,9 @@
+c:\users\cinor\documents\visual studio 2013\Projects\物件導向\物件導向\bin\Debug\物件導向.exe.config
+c:\users\cinor\documents\visual studio 2013\Projects\物件導向\物件導向\bin\Debug\物件導向.exe
+c:\users\cinor\documents\visual studio 2013\Projects\物件導向\物件導向\bin\Debug\物件導向.pdb
+c:\users\cinor\documents\visual studio 2013\Projects\物件導向\物件導向\obj\Debug\物件導向.csprojResolveAssemblyReference.cache
+c:\users\cinor\documents\visual studio 2013\Projects\物件導向\物件導向\obj\Debug\物件導向.Form1.resources
+c:\users\cinor\documents\visual studio 2013\Projects\物件導向\物件導向\obj\Debug\物件導向.Properties.Resources.resources
+c:\users\cinor\documents\visual studio 2013\Projects\物件導向\物件導向\obj\Debug\物件導向.csproj.GenerateResource.Cache
+c:\users\cinor\documents\visual studio 2013\Projects\物件導向\物件導向\obj\Debug\物件導向.exe
+c:\users\cinor\documents\visual studio 2013\Projects\物件導向\物件導向\obj\Debug\物件導向.pdb
